@@ -115,7 +115,7 @@ https://aviationstack.com
 
 #### Run Multi-Agent System in Terminal
 
-		python main.py
+		python Travel_Planner/main.py
 
 
 This will test the multi-agent system through the terminal.
@@ -125,7 +125,7 @@ This will test the multi-agent system through the terminal.
 #### Run Streamlit Web App
 
 
-		streamlit run frontend.py
+		streamlit run Travel_Planner/frontend.py
 
 
 This will launch the Multi-Agent AI web application.
